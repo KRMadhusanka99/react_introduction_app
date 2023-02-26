@@ -1,10 +1,10 @@
 import './App.css';
-import Title from './components/Title/Title';
+import OuterWrapper from './components/Outer_Wapper/OuterWrapper';
 
 function App() {
   return (
     <div className="App">
-      <Title />
+      <OuterWrapper />
     </div>
   );
 }

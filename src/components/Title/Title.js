@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; //rfc to generate a auto compononts
 
 const Title = () =>{
     return(
