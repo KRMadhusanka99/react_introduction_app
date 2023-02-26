@@ -10,6 +10,9 @@ const OuterWrapper = () =>  {
             <Title></Title>
             <InputBox />
             <WorkRecord />
+            <WorkRecord />
+            <WorkRecord />
+            <WorkRecord />
         </div>
     );
 };
