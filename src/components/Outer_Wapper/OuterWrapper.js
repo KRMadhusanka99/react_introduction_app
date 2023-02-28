@@ -9,10 +9,10 @@ const OuterWrapper = () =>  {
         <div className={Style.outer}>
             <Title></Title>
             <InputBox />
-            <WorkRecord />
-            <WorkRecord />
-            <WorkRecord />
-            <WorkRecord />
+            <WorkRecord title = "Mahinda College"/>
+            <WorkRecord title = "Bandaranayaka College"/>
+            <WorkRecord title = "Royal College"/>
+            <WorkRecord title = "Maliyadeva College"/>
         </div>
     );
 };
